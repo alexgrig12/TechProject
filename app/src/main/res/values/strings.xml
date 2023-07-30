@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TechProject</string>
+    <string name="go_to_fragment">Go to fragment</string>
+    <string name="click_me">Click me</string>
+    <string name="default_value">0</string>
+    <string name="total_count">Total count: %d</string>
 </resources>
